@@ -12,6 +12,7 @@ const main = async () => {
 
   console.log("🎨 Image created successfully!");
 
+  // --- USED TO KEEP THE DOCKER CONTAINER RUNNING ---
   while (true) {}
 };
 
