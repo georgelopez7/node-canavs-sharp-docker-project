@@ -39,13 +39,13 @@ npm run dev
 4. Build the Docker image:
 
 ```bash
-docker build -t node-sharp-canvas .
+docker build -t node-sharp-canvas-image .
 ```
 
 5. Run the Docker image:
 
 ```bash
-docker run -d --name sharp-canvas-container sharp-canvas-example
+docker run -d --name node-sharp-canvas-container node-sharp-canvas-image
 ```
 
 6. Once the Docker container is running, you can see the image has been created in the `output` folder. To see this run the following command:
