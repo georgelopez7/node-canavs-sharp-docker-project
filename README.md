@@ -2,6 +2,8 @@
 
 An example project that creates an image using the `sharp` and `node-canvas` packages in a Docker container.
 
+**_NOTE:_** 📰 Please feel free to check out the accompanying blog post [here](https://medium.com/@george.benjamin.lopez/crafting-images-in-the-cloud-using-sharp-and-node-canvas-inside-a-docker-container-ffad867720fa).
+
 ## Table of Contents
 
 - [About](#about)
